@@ -1,0 +1,2 @@
+cd AnonDrop.SubmissionServer
+dotnet run
