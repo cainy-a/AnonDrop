@@ -1,0 +1,6 @@
+[submodule "AnonDrop.RecipientClient"]
+	path = AnonDrop.RecipientClient
+	url = https://github.com/cainy-a/AnonDrop.RecipientClient
+[submodule "AnonDrop.SubmissionServer"]
+	path = AnonDrop.SubmissionServer
+	url = https://github.com/cainy-a/AnonDrop.SubmissionServer
